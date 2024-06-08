@@ -1,3 +1,11 @@
+Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+
+Politécnico Malvinas Argentinas.
+
+Aprendizaje Automático
+
+Autor: Cristian Retamar
+
 DelitosTDF
 ==============================
 

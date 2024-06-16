@@ -9,21 +9,22 @@ Autor: Cristian Roman Retamar
 Clasificación DelitosTDF
 
 --------------------------------------------------------------------------
-Utilizacion de las técnicas de aprendizaje automatico aprendidas a lo largo de la cursada donde se utilizaran en el campo de de los delitos ocurridos en el año 2023 en la provincia de Tierra del Fuego a fin de clasificar eficazmente los delitos esclarecidos (resultos) y no esclarecidos (no resultos).
+Utilizacion de las técnicas de aprendizaje automatico aprendidas a lo largo de la cursada donde se utilizaran en el campo de de los delitos ocurridos en el año 2023 en la provincia de Tierra del Fuego a fin de clasificar eficazmente los delitos esclarecidos (resueltos) y no esclarecidos (no resueltos).
 ==============================
 
 ENTREGA N 1
 
-El objetivo principal del proyecto es identificar patrones en los incidentes delictivos en Tierra del Fuego, con el fin de mejorar la asignación de recursos de seguridad y prevención para poder esclarecer los delitos que no fueron resultos. Para lograrlo, construiremos un modelo basado en clasificar eficazmente los delitos en dos categorías: Esclarecidos (resueltos) y No esclarecidos (no resueltos).
+EL OBJETIVO PRINCIPAL DEL PROYECTOS ES: Identificar patrones en los incidentes delictivos en Tierra del Fuego, con el fin de mejorar la asignación de recursos de seguridad y prevención para poder esclarecer los delitos que no fueron resueltos. Para lograrlo, construiremos un modelo basado en clasificar eficazmente los delitos en dos categorías: Esclarecidos (resueltos) y No esclarecidos (no resueltos).
 
-Problema a Abordar
+PROBLEMA A ABORDAR
+
 Contexto:
 El esclarecimiento de delitos es un aspecto crucial en la administración de justicia y en la mejora de la seguridad pública. Un delito esclarecido no solo significa que se ha identificado y aprehendido al responsable, sino también que se ha cerrado un caso, brindando justicia a las víctimas y contribuyendo a la disuasión de futuros delitos. En el contexto de Tierra del Fuego, como en muchas otras regiones, la tasa de esclarecimiento de delitos puede ser un indicador de la efectividad de las fuerzas de seguridad y del sistema judicial.
 
-Relevancia:
+RELEVANCIA:
 Identificar los factores que contribuyen a que un delito sea esclarecido puede ayudar a las autoridades a mejorar sus estrategias de investigación y prevención. El modelo que estamos desarrollando no solo servirá para predecir la probabilidad de que un delito sea esclarecido, sino que también permitirá analizar cuáles son las características más importantes que influyen en el esclarecimiento de un delito.
 
-Las preguntas de investigación del proyecto son:
+LAS PREGUNTAS DE INVESTIGACION DE PROYECTO SON:
 
 ¿Cuáles son los factores más determinantes que influyen en la probabilidad de que un delito sea esclarecido en Tierra del Fuego?
 

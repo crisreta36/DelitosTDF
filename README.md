@@ -6,7 +6,7 @@ Aprendizaje Automático
 
 Autor: Cristian Roman Retamar
 
-Clasificación DelitosTDF
+DelitosTDF
 
 --------------------------------------------------------------------------
 Utilizacion de las técnicas de aprendizaje automatico aprendidas a lo largo de la cursada donde se utilizaran en el campo de de los delitos ocurridos en el año 2023 en la provincia de Tierra del Fuego a fin de clasificar eficazmente los delitos esclarecidos (resueltos) y no esclarecidos (no resueltos).
